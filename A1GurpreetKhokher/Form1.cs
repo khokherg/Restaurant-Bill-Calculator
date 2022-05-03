@@ -119,42 +119,7 @@ namespace A1GurpreetKhokher
             }
             catch { }
         }
-
-
-        private void lstItems_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
-        }
-         
-        private void label12_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblTotal_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblTax_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblSubTotal_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblSTotal1_Click(object sender, EventArgs e)
-        {
-
-        }
+      
     }
 }
 
